@@ -1,2 +1,1 @@
-# Br-PartnerAPI
-PartnerAPI
+# API para Parceiros
